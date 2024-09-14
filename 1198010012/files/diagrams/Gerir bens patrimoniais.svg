@@ -170,7 +170,7 @@
     </g>
   </g>
   <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 134, 322)" id="gfx-23bed08d-4ab8-4947-98f5-7d9c3da3b2e1" display="block" class="djs-element djs-shape" data-element-id="23bed08d-4ab8-4947-98f5-7d9c3da3b2e1">
+    <g transform="matrix(1, 0, 0, 1, 134, 322)" id="gfx-72784214-68b7-443d-a626-8f46323a7c43" display="block" class="djs-element djs-shape" data-element-id="72784214-68b7-443d-a626-8f46323a7c43">
       <g class="djs-visual">
         <rect x="0" y="0" width="93" height="66" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
         <svg width="93" height="61" class="djs-svg-text">
@@ -197,7 +197,7 @@
     </g>
   </g>
   <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 1004, 322)" id="gfx-8fc41853-167c-4cf7-a7e7-ea47cf2de7a3" display="block" class="djs-element djs-shape" data-element-id="8fc41853-167c-4cf7-a7e7-ea47cf2de7a3">
+    <g transform="matrix(1, 0, 0, 1, 1004, 322)" id="gfx-fb6e9372-6b2c-4fd0-baa8-82acb5c73b61" display="block" class="djs-element djs-shape" data-element-id="fb6e9372-6b2c-4fd0-baa8-82acb5c73b61">
       <g class="djs-visual">
         <rect x="0" y="0" width="85" height="52" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
         <svg width="85" height="47" class="djs-svg-text">
@@ -265,7 +265,7 @@
         <tspan x="0" y="13.25">FUNDAHC</tspan>
       </text>
       <text transform="translate(100, 88)" font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="normal" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-svg-text" style="fill:black;">
-        <tspan x="0" y="13.25">V1.0.6 (28/04/2024)</tspan>
+        <tspan x="0" y="13.25">V1.0.7 (13/09/2024)</tspan>
       </text>
       <image preserveAspectRatio="none" x="100" y="108" width="239" height="62" xlink:href="data:image/png;base64,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" class="djs-html-text" />
     </g>
@@ -293,7 +293,7 @@
     </g>
   </g>
   <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 567, 443)" id="gfx-2e155693-b9e1-4e25-bed8-ce61930caa5a" display="block" class="djs-element djs-shape" data-element-id="2e155693-b9e1-4e25-bed8-ce61930caa5a">
+    <g transform="matrix(1, 0, 0, 1, 567, 443)" id="gfx-12b3fe6f-b6ac-462c-b5a9-9538dd6dbec3" display="block" class="djs-element djs-shape" data-element-id="12b3fe6f-b6ac-462c-b5a9-9538dd6dbec3">
       <g class="djs-visual">
         <rect x="0" y="0" width="151" height="57" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
         <svg width="151" height="52" class="djs-svg-text">
