@@ -101,7 +101,7 @@
     </g>
   </g>
   <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 778, 458)" id="gfx-8775fdfc-d696-4168-8531-337b8c1a4b75" display="block" class="djs-element djs-shape" data-element-id="8775fdfc-d696-4168-8531-337b8c1a4b75">
+    <g transform="matrix(1, 0, 0, 1, 778, 458)" id="gfx-6035bfb7-c89a-4bcb-a7c1-1000cda1fea9" display="block" class="djs-element djs-shape" data-element-id="6035bfb7-c89a-4bcb-a7c1-1000cda1fea9">
       <g class="djs-visual">
         <rect x="0" y="0" width="110" height="37" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
         <svg width="110" height="32" class="djs-svg-text">
@@ -129,7 +129,7 @@
     </g>
   </g>
   <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 503, 458)" id="gfx-abc0d413-fa51-4073-a722-5d3c41b0318e" display="block" class="djs-element djs-shape" data-element-id="abc0d413-fa51-4073-a722-5d3c41b0318e">
+    <g transform="matrix(1, 0, 0, 1, 503, 458)" id="gfx-c714b568-6d1a-45a7-870a-723696ed657f" display="block" class="djs-element djs-shape" data-element-id="c714b568-6d1a-45a7-870a-723696ed657f">
       <g class="djs-visual">
         <rect x="0" y="0" width="131" height="48" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
         <svg width="131" height="43" class="djs-svg-text">
@@ -158,7 +158,7 @@
     </g>
   </g>
   <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 252, 458)" id="gfx-4506927c-d5fa-4203-a7ee-c1a3c0a6b5d3" display="block" class="djs-element djs-shape" data-element-id="4506927c-d5fa-4203-a7ee-c1a3c0a6b5d3">
+    <g transform="matrix(1, 0, 0, 1, 252, 458)" id="gfx-21583a23-07c5-4707-99a4-5f0c252aaa6b" display="block" class="djs-element djs-shape" data-element-id="21583a23-07c5-4707-99a4-5f0c252aaa6b">
       <g class="djs-visual">
         <rect x="0" y="0" width="103" height="29" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
         <svg width="103" height="24" class="djs-svg-text">
@@ -182,7 +182,7 @@
     </g>
   </g>
   <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 124, 443)" id="gfx-1f35db50-132b-40e1-8162-468fedf6cf54" display="block" class="djs-element djs-shape" data-element-id="1f35db50-132b-40e1-8162-468fedf6cf54">
+    <g transform="matrix(1, 0, 0, 1, 124, 443)" id="gfx-18de0e3d-10ca-43b2-bd3f-482af590f725" display="block" class="djs-element djs-shape" data-element-id="18de0e3d-10ca-43b2-bd3f-482af590f725">
       <g class="djs-visual">
         <rect x="0" y="0" width="97" height="56" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
         <svg width="97" height="51" class="djs-svg-text">
@@ -209,7 +209,7 @@
     </g>
   </g>
   <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 916, 443)" id="gfx-b687cd0a-e802-4df1-a8f5-a92fe110f29f" display="block" class="djs-element djs-shape" data-element-id="b687cd0a-e802-4df1-a8f5-a92fe110f29f">
+    <g transform="matrix(1, 0, 0, 1, 916, 443)" id="gfx-108cd90e-1f37-4d93-819e-c01a0c9c2062" display="block" class="djs-element djs-shape" data-element-id="108cd90e-1f37-4d93-819e-c01a0c9c2062">
       <g class="djs-visual">
         <rect x="0" y="0" width="91" height="62" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
         <svg width="91" height="57" class="djs-svg-text">
@@ -277,7 +277,7 @@
         <tspan x="0" y="13.25">FUNDAHC</tspan>
       </text>
       <text transform="translate(100, 88)" font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="normal" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-svg-text" style="fill:black;">
-        <tspan x="0" y="13.25">V1.0.6 (21/05/2024)</tspan>
+        <tspan x="0" y="13.25">V1.0.7 (13/09/2024)</tspan>
       </text>
       <image preserveAspectRatio="none" x="100" y="108" width="300" height="62" xlink:href="data:image/png;base64,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" class="djs-html-text" />
     </g>
